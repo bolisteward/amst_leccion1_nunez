@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to my app!"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:textSize="28sp"/>
+
+    <Button
+        android:id="@+id/btn_sidweb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="Sidweb"
+        android:onClick="openPage"/>
+
+    <Button
+        android:id="@+id/btn_academico"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Sistema academico"
+        android:onClick="openPage"/>
+
+    <Button
+        android:id="@+id/btn_vinculos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Vinculos con la sociedad"
+        android:onClick="openPage"/>
+
+    <Button
+        android:id="@+id/btn_bienestar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Vienestar estudiantil"
+        android:onClick="openPage"/>
+
+</LinearLayout>

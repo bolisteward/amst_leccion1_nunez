@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">amst_l1_nunez_espolservicios</string>
+    <string name="String_sidweb">El SIDWeb de ESPOL (Sistema Interactivo de Desarrollo para la Web)
+        es una plataforma en línea de aprendizaje colaborativo, por medio del cual los profesores
+        y los alumnos se comunican virtualmente.</string>
+    <string name="String_academico">En el sitio www.academico.espol.edu.ec, el estudiante puede
+        consultar en línea su historia académica, las materias aprobadas, las materias registradas,
+        las calificaciones, las deudas que mantenga con la Institución, la malla curricular en forma
+        gráfica, los datos de la planificación académica sobre cursos y horarios para el proceso de
+        matriculación.</string>
+
+    <string name="String_ubep">La Unidad  de Bienestar Politécnico (UBP) , es la unidad encargada
+        de la ejecución y promoción de programas, planes y proyectos que garanticen tres aspectos
+        fundamentales:
+(i) Un entorno de aprendizaje idóneo
+
+(ii) El cumplimiento de las disposiciones del artículo 86 de la LOES.
+
+(iii) El bienestar de los estamentos politécnicos: profesores, estudiantes, servidores y obreros.
+        Por el bienestar de la Comunidad Politécnica.</string>
+
+    <string name="String_vinculos">"La Unidad de Vinculación con la Sociedad es un espacio que
+        contribuye al desarrollo integral de la sociedad a través de las Unidades Académicas y
+        sus programas. UVS es el puente entre la Escuela Superior Politécnica del Litoral y la
+        comunidad, siendo un centro de apoyo que trabaja en el diseño de programas y proyectos
+        para la realización de las prácticas pre profesionales de las distintas carreras de la ESPOL</string>
+
+    <string name="String_horarios">Horario de atención De 08h00 a 16h30, de lunes a viernes.
+Guayaquil - Ecuador</string>
+
+</resources>
